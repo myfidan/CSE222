@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"fidan","l":"AbstractGraph"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"fidan","l":"Coordinat"},{"p":"fidan","l":"Edge"},{"p":"fidan","l":"Graph"},{"p":"fidan","l":"ListGraph"},{"p":"fidan","l":"Main"},{"p":"fidan","l":"MatrixGraph"}]
